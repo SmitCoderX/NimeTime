@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "586012408215",
+    "project_id": "nimetime-999af",
+    "storage_bucket": "nimetime-999af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586012408215:android:baf96711b59175ada16cd2",
+        "android_client_info": {
+          "package_name": "com.smitcoderx.nimetime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586012408215-u77lorkqvp3gr6lqdr2h2gg2mnj0u0c4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smitcoderx.nimetime",
+            "certificate_hash": "07ee89fa5fd95862b7705246d378e08a3fa9f728"
+          }
+        },
+        {
+          "client_id": "586012408215-ah96hvu4efs6mmkbalfgikrmvftdvjtv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYDnMNq9Q94PLuotwvj0WtQFkQV6g70k0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586012408215-ah96hvu4efs6mmkbalfgikrmvftdvjtv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
